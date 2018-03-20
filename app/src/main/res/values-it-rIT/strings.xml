@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MathQuizForDummies</string>
+    <string name="input_username">Nome utente</string>
+    <string name="button_play">Gioca</string>
+    <string name="bar_difficulty">Scegli difficoltà</string>
+    <string name="diff_media">media</string>
+    <string name="diff_facile">facile</string>
+    <string name="diff_difficile">difficile</string>
+    <string name="record">classifica</string>
+</resources>
